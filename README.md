@@ -1,2 +1,1 @@
-# DinopassToClipboard
-Windows appllcation to copy a strong password from dinpass.com to your clipboard
+Copies a password from https://dinopass.com/password/strong to your clipboard
