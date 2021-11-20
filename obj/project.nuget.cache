@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cjs7pgXdYEjixMLg9C5YaV/a3sR3pbyvaUla+RDixLOD6x5+VWUS1E2I19gG37zohnSQHaw0U9cde+GI92VKpw==",
+  "success": true,
+  "projectFilePath": "C:\\Working\\DinoPassToClipboard\\DinoPassToClipboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xida\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.0\\microsoft.netcore.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\xida\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\xida\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.0\\microsoft.aspnetcore.app.runtime.win-x64.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+C:\Working\DinoPassToClipboard\bin\Release\net6.0\win10-x64\publish\DinoPassToClipboard.pdb
+C:\Working\DinoPassToClipboard\bin\Release\net6.0\win10-x64\publish\DinoPassToClipboard.exe

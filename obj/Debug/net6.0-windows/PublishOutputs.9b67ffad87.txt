@@ -1,0 +1,5 @@
+C:\Working\DinoPassToClipboard\bin\Debug\net6.0-windows\publish\DinoPassToClipboard.exe
+C:\Working\DinoPassToClipboard\bin\Debug\net6.0-windows\publish\DinoPassToClipboard.dll
+C:\Working\DinoPassToClipboard\bin\Debug\net6.0-windows\publish\DinoPassToClipboard.deps.json
+C:\Working\DinoPassToClipboard\bin\Debug\net6.0-windows\publish\DinoPassToClipboard.runtimeconfig.json
+C:\Working\DinoPassToClipboard\bin\Debug\net6.0-windows\publish\DinoPassToClipboard.pdb

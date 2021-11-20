@@ -1,0 +1,15 @@
+C:\Working\DinoPassToClipboard\bin\Debug\net6.0\DinoPassToClipboard.exe
+C:\Working\DinoPassToClipboard\bin\Debug\net6.0\DinoPassToClipboard.deps.json
+C:\Working\DinoPassToClipboard\bin\Debug\net6.0\DinoPassToClipboard.runtimeconfig.json
+C:\Working\DinoPassToClipboard\bin\Debug\net6.0\DinoPassToClipboard.dll
+C:\Working\DinoPassToClipboard\bin\Debug\net6.0\ref\DinoPassToClipboard.dll
+C:\Working\DinoPassToClipboard\bin\Debug\net6.0\DinoPassToClipboard.pdb
+C:\Working\DinoPassToClipboard\obj\Debug\net6.0\DinoPassToClipboard.csproj.AssemblyReference.cache
+C:\Working\DinoPassToClipboard\obj\Debug\net6.0\DinoPassToClipboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working\DinoPassToClipboard\obj\Debug\net6.0\DinoPassToClipboard.AssemblyInfoInputs.cache
+C:\Working\DinoPassToClipboard\obj\Debug\net6.0\DinoPassToClipboard.AssemblyInfo.cs
+C:\Working\DinoPassToClipboard\obj\Debug\net6.0\DinoPassToClipboard.csproj.CoreCompileInputs.cache
+C:\Working\DinoPassToClipboard\obj\Debug\net6.0\DinoPassToClipboard.dll
+C:\Working\DinoPassToClipboard\obj\Debug\net6.0\ref\DinoPassToClipboard.dll
+C:\Working\DinoPassToClipboard\obj\Debug\net6.0\DinoPassToClipboard.pdb
+C:\Working\DinoPassToClipboard\obj\Debug\net6.0\DinoPassToClipboard.genruntimeconfig.cache
